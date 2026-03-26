@@ -16,8 +16,8 @@ public class input {
         System.out.println("your marks is " + marks);
         double DecNum = 39875203947.54;
         System.out.println("your Dec Num is " + DecNum);
-        long intger = 29384702478209L;
-        System.out.println("your integer is " + intger);
+        long integer = 29384702478209L;
+        System.out.println("your integer is " + integer);
 
     }
 }
